@@ -1,1 +1,2 @@
 This is the text inside the test.txt file. 
+This is the new text inside the test.txt file. 
